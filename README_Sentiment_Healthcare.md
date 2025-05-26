@@ -70,27 +70,7 @@ To build a **machine learning model** that can:
 ├── hospital.csv
 ├── Sentiment_Analysis_Model.ipynb
 ├── sentiment_model.pkl
-├── tfidf_vectorizer.pkl
-├── requirements.txt
 └── README.md
 ```
 
-## 🚀 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/LavanyaRagavi/Projects.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   Open `Sentiment_Analysis_Model.ipynb` in Jupyter Notebook or Google Colab
-
-4. To predict on new data:
-   Load the `sentiment_model.pkl` and `tfidf_vectorizer.pkl` to use in production
-
-## 💼 Add to Resume/LinkedIn
-**Project Title**: Sentiment Analysis on Healthcare Reviews  
-**Skills Used**: NLP, Python, TF-IDF, Logistic Regression, SMOTE, Model Evaluation  
-**Result**: Built a model with 93% accuracy in predicting sentiment of hospital reviews.
+   Open `Sentiment_Analysis_Model_nlp.ipynb` in Jupyter Notebook or Google Colab
